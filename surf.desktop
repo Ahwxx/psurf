@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=psurf
+Comment=perfect surf for X
+Icon=utilities-browser
+Exec=surf
+Categories=System;TerminalEmulator
